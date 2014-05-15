@@ -115,7 +115,6 @@
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/data/js/gtv_ads.js
 ||globes.co.il/news/frames/topbannerflash$subdocument
-||wink.globes.co.il^
 !-zvz-!
 ||bannerwebservice.zvz.co.il^
 ||zvz.co.il/BannerCommunication.
